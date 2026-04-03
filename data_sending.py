@@ -2,7 +2,7 @@ import tkinter as tk
 from obswebsocket import obsws, requests
 
 # ---------------- OBS CONNECT ----------------
-ws = obsws("localhost", 4455, "1Sd99kwaG76GWXVv")
+ws = obsws("localhost", 4455, "*****")
 ws.connect()
 
 # ---------------- DATA ----------------
