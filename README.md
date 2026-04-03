@@ -15,7 +15,6 @@ This is a Python Tkinter dashboard that allows you to control a live scoreboard 
 
 1. OBS Studio 32.1.0
 2. Python 3.10
-
 3. Host machine: Windows 11
 
 
